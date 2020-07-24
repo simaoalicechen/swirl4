@@ -1,5 +1,5 @@
 # swirls3
-3. Vectors
+Lesson 4. Vectors
 > swirl()
 
 | Welcome to swirl! Please sign in. If you've been here before, use the same
